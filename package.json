@@ -1,0 +1,25 @@
+{
+  "name": "bugbasket-playwright-tests-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pozaga/bugbasket-playwright-tests-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pozaga/bugbasket-playwright-tests-/issues"
+  },
+  "homepage": "https://github.com/Pozaga/bugbasket-playwright-tests-#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
